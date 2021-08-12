@@ -1,6 +1,6 @@
 [
   {
-    "Name": "WVD Immersion Workshop",
+    "Name": "MCW- Implementing Azure Virtual Desktop in the Enterprise",
     "Language": "English",
     "Files": [
 	    {
