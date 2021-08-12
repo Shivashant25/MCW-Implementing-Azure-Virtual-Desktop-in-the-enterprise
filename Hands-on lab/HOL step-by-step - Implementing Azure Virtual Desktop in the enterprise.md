@@ -177,7 +177,7 @@ In this exercise, you will be configuring [Azure AD Connect](https://docs.micros
 
 7.  When prompted, sign in using the following credentials:
 
-  * Username: **CONTOSO.COM\ADadmin**
+  * Username: **ADadmin**
   * Password: **WVD\@zureL\@b2019!**
   * When prompted, select **Yes** to accept the RDP certification warning.
 
