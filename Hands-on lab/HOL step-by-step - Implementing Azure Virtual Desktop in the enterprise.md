@@ -236,7 +236,7 @@ By default, Azure AD Connect does not synchronize the built-in domain administra
 
 > **Note**: This account will be used during the host pool creation process for joining the hosts to the domain. Granting Domain Admin permissions will simplify the lab. However, any Active Directory account that has the following permissions will suffice. This can be done using [Active Directory Delegate Control](https://danielengberg.com/domain-join-permissions-delegate-active-directory/). 
  
-7. Select **OK** on thw popup saying **The Add to Group  operation was successfully completed**.
+7. Select **OK** on the popup saying **The Add to Group  operation was successfully completed**.
 
     ![](media/useradded.png "Add user to Domain Admins group")
 
@@ -276,9 +276,7 @@ By default, Azure AD Connect does not synchronize the built-in domain administra
 
 7.  Select **Install** to start the configuration and synchronization.
 
-    ![This image shows the next window, where you will select the box to continue without matching all UPN suffixes and select next to continue.](media/azureadsigninconfig.png "Azure AD sign-in configuration")
-
-    ![This image shows the final setup window, select the box to start the synchronization process and select install.](media/azureadready.png "Azure AD Connect Ready to configure")
+    ![](media/azureadsigninconfig.png)
 
 8.  After a few minutes, the Azure AD Connect installation will complete. Select **Exit**.
 
